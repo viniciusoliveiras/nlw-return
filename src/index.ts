@@ -1,4 +1,3 @@
-import styleInject from 'style-inject';
+import './global.css';
 
-styleInject('__STYLE_CSS__');
 export { Widget } from './components/Widget';
